@@ -3,7 +3,7 @@ import time
 #import random
 #import datetime
 
-login, passw = "", ""
+login, passw = "", ""https://github.com/dshedr/countbot/blob/master/print_via_console
 def main(t):
 	lm,rm,cm = 0, 0, 0 #Sea-ness
 	lx,rx,cx = 0, 0, 0 #Crystal-ish
